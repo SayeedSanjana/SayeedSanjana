@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Sanjana Sayeed</h1>
-<h3>💫 About Me: </h3>
-<br>
+
+## 💫 About Me: 
 I am a self-motivated, enthusiastic, and hardworking individual with over 1 year of professional experience in the field of Software Development. 
 
 - 📫 How to reach me **sanjanasayeed68@gmail.com**
@@ -17,7 +17,9 @@ I am a self-motivated, enthusiastic, and hardworking individual with over 1 year
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SayeedSanjana&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SayeedSanjana&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SayeedSanjana&theme=apprentice&no-frame=false&no-bg=true&margin-w=4)
 ---
-[![](https://visitcount.itsvg.in/api?id=SayeedSanjana&icon=1&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=SayeedSanjana&icon=1&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
