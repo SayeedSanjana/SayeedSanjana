@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Sanjana Sayeed</h1>
+<h1 align="center">Hello! 👋, I'm Sanjana Sayeed</h1>
 
 ## 💫 About Me: 
 I am a self-motivated, enthusiastic, and hardworking individual with over 1 year of professional experience in the field of Software Development. 
