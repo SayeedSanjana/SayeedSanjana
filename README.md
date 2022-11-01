@@ -2,7 +2,7 @@
 <h1 align="center">Hello! 👋, I'm Sanjana Sayeed</h1>
 
 ## 💫 About Me: 
-I am a self-motivated, enthusiastic, and hardworking individual with over 1 year of professional experience in the field of Software Development. 
+I am a self-motivated, enthusiastic, and hardworking individual with almost 2 years of professional experience in the field of Software Development. 
 
 - 📫 How to reach me **sanjanasayeed68@gmail.com**
 
