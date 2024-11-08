@@ -52,6 +52,11 @@ I am a self-motivated, enthusiastic, and hardworking individual with almost 2 ye
 
 ![](https://github-readme-stats.vercel.app/api?username=SayeedSanjana&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SayeedSanjana&theme=gotham&hide_border=false)
+<img src='https://github-readme-stats.vercel.app/api?username=Iktisad&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true' width='421' >
+
+<img src='https://github-readme-streak-stats.herokuapp.com/?user=Iktisad&theme=vue-dark&hide_border=false' width='421'>
+
+
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SayeedSanjana&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 
