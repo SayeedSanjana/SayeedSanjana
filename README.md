@@ -8,6 +8,9 @@ I am a driven, passionate, and dedicated professional with nearly two years of e
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sanjana-sayeed-917b12135/) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/sanjana.sayeed.98)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)]([https://instagram.com/YourProfile](https://www.instagram.com/sanjanasayeed/))
+[![ORCID](https://img.shields.io/badge/ORCID-%23A6CE39.svg?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-9611-0383)
 
 ## 💻 Tech Stack:
 <p align="left"> 
