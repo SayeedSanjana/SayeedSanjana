@@ -58,8 +58,6 @@ I am a driven, passionate, and dedicated professional with nearly two years of e
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SayeedSanjana&show_icons=true&locale=en&layout=compact&theme=chartreuse-light" alt="ovi" />
 
 
-<br>
-
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SayeedSanjana&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 
