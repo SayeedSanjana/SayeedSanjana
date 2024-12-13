@@ -54,9 +54,9 @@ I am a driven, passionate, and dedicated professional with nearly two years of e
 
 <img src='https://github-readme-streak-stats.herokuapp.com/?user=SayeedSanjana&theme=vue-dark&hide_border=false' width='421'>
 
-## Stats
+## Most Lnguages Used:
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SayeedSanjana&theme=default" alt="mystreak"/>
+
 
 <br>
 
