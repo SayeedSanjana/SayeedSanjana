@@ -58,7 +58,8 @@ I am Sanjana Sayeed, a recent graduate from Concordia University, where I earned
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SayeedSanjana&show_icons=true&locale=en" alt="SayeedSanjana" /></p>
-<img src='https://github-readme-streak-stats.herokuapp.com/?user=SayeedSanjana&theme=vue-dark&hide_border=false' width='421'>
+![GitHub Streak](https://streak-stats.demolab.com/?user=your-SayeedSanjana&theme=dark&hide_border=true)
+
 
 ## Most Lnguages Used:
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SayeedSanjana&show_icons=true&locale=en&layout=compact&theme=chartreuse-light" alt="ovi" />
