@@ -2,7 +2,7 @@
 <h1 align="center">Hello! 👋, I am Sanjana Sayeed</h1>
 
 ## 💫 About Me: 
-I am Sanjana Sayeed, a recent graduate from Concordia University, where I earned a Master's degree in Software Engineering. With over a year of professional experience as a Software Engineer, I bring a blend of academic excellence and practical expertise. My journey reflects a commitment to learning and innovation, equipping me with the skills to tackle complex challenges and deliver impactful solutions in the field of software development.
+I am Sanjana Sayeed, a recent graduate from Concordia University, where I earned a Master's degree in Software Engineering. With over 3 years of experience as a Software Engineer, I bring a blend of academic excellence and practical expertise. My journey reflects a commitment to learning and innovation, equipping me with the skills to tackle complex challenges and deliver impactful solutions in the field of software development.
 
 - 📫 How to reach me **sanjanasayeed68@gmail.com**
 
