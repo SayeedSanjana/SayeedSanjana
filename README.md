@@ -67,7 +67,7 @@ I am Sanjana Sayeed, a recent graduate from Concordia University, where I earned
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SayeedSanjana&show_icons=true&locale=en&layout=compact&theme=chartreuse-light" alt="ovi" />
 
 
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SayeedSanjana&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SayeedSanjana&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 
 
 ## 🏆 GitHub Trophies
